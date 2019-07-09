@@ -1,0 +1,44 @@
+Restaurants:
+
+"Dar El Jeld", 5، "1006 Rue Dar El Jeld, Tunis"
+"Restaurant Chez Slah", "14، Rue Pierre de Coubertin, Tunis"
+"Planet Food", "Boulevard de la Corniche, Sousse"
+"Restaurant Café Salé", "Rue Abounawas 42 (Sousse Médina), Sousse"
+"Da Paolo", "Avenue 14 Janvier, Mahdia"
+"Ali Baba", "Avenue 2 mars 1934, 5100 Mahdia، Mahdia"
+"Restaurant le Pirate Monastir", "Port de pêche El ghedir, Monastir 5000"
+"Restaurant le pélican", "Skanes Meubles, Monastir"
+
+Hotels:
+
+"Four Seasons Hotel","31 260 000"
+"Hotel La Maison Blanche",,"71 904 444"
+"Hotel Ibis Tunis",,"71 830 300"
+"Hotel Iberostar Royal El Mansour & Thalasso",,"73 681 100"
+"Sirocco Beach Hotel",,"73 671 655"
+"Primasol El Mehdi Hotel",,"73 671 300"
+"Orient Palace Hotel",,"73 242 888"
+"Monastir Center Hotel",,"73 467 800"
+
+Historical Monuments:
+
+,"Amphitheatre of El Jem","El Jem"
+,"Bardo National Museum","P7"
+,"Bourguiba mausoleum","Mausoleum of Habib Bourguiba, Monastir 5000"
+,"Zaghouan Aqueduct","Mohammedia"
+,"Great Mosque of Kairouan","Rue Sidi Abdelkader, Kairouan"
+
+Festivals:
+
+"International Festival of Carthage","Jul 13 – Aug 15, 2018",
+"International Festival of Bizerte","Aug 2018",
+"International Festival of Hammamet","Jul - Aug 2018",
+"International Festival of Sfax","Jul - Aug 2018",
+"International Festival of Gabes","Aug 2018",
+
+If the User clicks on Hotel item it should move them to phone app (maybe changin play
+icon with the call icon)
+
+// Festival Item play a sound
+// Restaurant Item 
+// Historical monuments Item
